@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I`m python developer
-- I coding discord bot
+- I coding discord bot // Desktop Development
 
 <!---
 YusufNoMark/YusufNoMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
